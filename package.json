@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "description": "Overview about technologies (in Portuguese).",
   "scripts": {
+    "deploy": "gh-pages -d public",
     "start": "grunt",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,6 +17,7 @@
   },
   "homepage": "https://github.com/brunowego/starting-point#readme",
   "devDependencies": {
+    "gh-pages": "^0.11.0",
     "grunt": "^1.0.1",
     "grunt-browser-sync": "^2.2.0",
     "load-grunt-config": "^0.19.2",
