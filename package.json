@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "description": "Overview about technologies (in Portuguese).",
   "scripts": {
+    "start": "grunt",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -13,5 +14,11 @@
   "bugs": {
     "url": "https://github.com/brunowego/starting-point/issues"
   },
-  "homepage": "https://github.com/brunowego/starting-point#readme"
+  "homepage": "https://github.com/brunowego/starting-point#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-browser-sync": "^2.2.0",
+    "load-grunt-config": "^0.19.2",
+    "time-grunt": "^1.4.0"
+  }
 }
