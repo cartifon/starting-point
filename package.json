@@ -1,0 +1,17 @@
+{
+  "name": "starting-point",
+  "version": "0.0.0",
+  "description": "Overview about technologies (in Portuguese).",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunowego/starting-point.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brunowego/starting-point/issues"
+  },
+  "homepage": "https://github.com/brunowego/starting-point#readme"
+}
